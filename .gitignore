@@ -1,0 +1,5 @@
+wp-content/themes/starlabs/node_modules
+wp-content/themes/starlabs/package-lock.json
+wp-config.php
+/wp-content/uploads/
+/.htaccess
